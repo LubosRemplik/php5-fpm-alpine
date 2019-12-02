@@ -9,6 +9,7 @@ RUN apk --no-cache --update add \
 	libpng-dev \
 	autoconf \
 	g++ \
+	bash git openssh \
 	make
 
 # PHP extensions
