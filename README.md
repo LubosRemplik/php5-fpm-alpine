@@ -1,15 +1,3 @@
-## PHP5 fpm alpine 
+## Deprecated
 
-Image with few additional php extensions and composer
-
-### Extensions
-
-```
-mbstring
-intl
-simplexml
-pdo
-pdo_mysql
-gd
-redis
-```
+Use https://github.com/LubosRemplik/php and relevant tag
